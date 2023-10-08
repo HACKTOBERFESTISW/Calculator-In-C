@@ -13,3 +13,9 @@ struct multiplication {
 		}
 	}
 }
+
+
+int main(int argc, char **argv) {
+	multiplication run;
+	run.multiply;
+}
