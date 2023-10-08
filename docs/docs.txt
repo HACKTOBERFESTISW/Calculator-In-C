@@ -1,0 +1,11 @@
+How to use Calculator:
+
+first:
+	Have a c compiler
+	YOUR OPTIONS:
+		CLANG
+		GCC
+		intel C compiler
+		TinyCC (TCC)
+		Pelles C:
+		Keil C51/C166 Compiler
